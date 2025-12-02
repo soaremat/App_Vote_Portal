@@ -12,3 +12,5 @@ O principal objetivo de um app "Portal do Voto" direcionado a escolas é democra
 
 Público-alvo:
  * Estudantes do ensino fundamental e médio: A faixa etária ideal para o uso do aplicativo abrange desde o ensino fundamental II até o ensino médio, período em que os jovens começam a desenvolver um senso crítico e a se interessar por questões políticas.
+
+Acesse nosso figma: https://www.figma.com/design/JodgBzmx8kCxwYzQI6oMGp/App-Portal-do-Voto?node-id=0-1&t=CxbAYvjP0zHJO4LM-1
